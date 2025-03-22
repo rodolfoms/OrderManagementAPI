@@ -6,7 +6,6 @@ Este é um projeto desenvolvido durante um treinamento, utilizando **.NET API**,
 - .NET 6/7
 - MongoDB
 - RabbitMQ
-- Docker (opcional, para facilitar o ambiente de desenvolvimento)
 
 ## Configuração do Ambiente
 1. Instale o **.NET SDK** compatível com o projeto.
